@@ -19,3 +19,34 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-image: linear-gradient(90deg, orange 0%,yellow 100%);
+    color: white;
+}
+.cat2{
+    background-image: linear-gradient(90deg, purple 0%, lightslategray 100%);
+    color: white;
+}
+.cat3{
+    background-image: linear-gradient(90deg, blue 0%, magenta 100%);
+    color: white;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    align-items: center;
+    border-radius: 10px;
+}
+.catagory img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    display: flex;
+    justify-content: center;
+}
