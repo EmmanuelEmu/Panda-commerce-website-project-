@@ -50,3 +50,18 @@
     display: flex;
     justify-content: center;
 }
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+.button-hov:hover{
+    height: 60px;
+}
+.submit{
+    margin-top: 30px;
+}
